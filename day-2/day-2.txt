@@ -1,0 +1,22 @@
+📅 Day 2 Focus: Variables, Data Types & Basic Output
+🎯 Goal for Today
+Write real code, not just read
+
+Understand how JavaScript stores information
+let
+const
+var
+
+decleration
+assignment
+cant redeclear variables with let
+
+Learn the core data types
+
+String ---- let name = 'gabe';
+numbers ---- let age = '25';
+bolleans ----  true or false
+undefined ---- let firsstName;  --> undefined
+null  --- explictly clear the value of a variable
+
+Practice outputting values to the console

@@ -16,4 +16,5 @@ console.log("next year:", age);
 typeof firstName;
 typeof age;
 
+console.log(`Hello, my name is ${firstName}`);
 // 1️⃣ Learn (20 minutes)

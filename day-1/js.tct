@@ -1,0 +1,28 @@
+🟢 DAY 1 — JavaScript Basics (Today)
+⏱️ Time: 45–60 minutes
+1️⃣ Learn (20 minutes)
+
+Focus only on:
+
+What JavaScript is
+
+- javacript was originally designed to run only in browsers
+- node allows you to run javascript outside of the browser (allows you to buid the backend witth javascript)
+-javascript is about behaivor, how should your webpage behave
+
+console.log()
+-10x
+
+let vs const
+we use variables to store data temporarily in a computers memory
+camel notation to name variables (firstName)
+value of const cannot change
+
+Strings & numbers
+
+premitives/ value types
+String ---- let name = 'gabe';
+numbers ---- let age = '25';
+bolleans ----  true or false
+undefined ---- let firsstName;  --> undefined
+null  --- explictly clear the value of a variable

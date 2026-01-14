@@ -1,0 +1,35 @@
+⚡ JavaScript Grind Session (Days 3–5)
+🟢 DAY 3 — Operators & Logic (45–60 min)
+📘 Title
+
+“Operators & Logic: Making JavaScript Decide”
+-can set variables = to simple equations
+-theses are symbols
+
+Core Concepts
+
+Math operators: + - * / %   (used to perform aithmathic operations)
+addition
+subtraction
+multiplication
+division
+modulus
+increment ++
+decrement --
+
+
+
+assignment operators:
+assign values to js variables
+
+
+
+
+Comparison: > < >= <= === !==
+used to test for true or false
+
+
+
+
+Logical operators: && || !
+use to test for true and false values

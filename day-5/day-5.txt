@@ -1,0 +1,12 @@
+🟢 DAY 5 — Functions (THIS IS HUGE) (60–75 min)
+📘 Title
+
+“Functions: Reusable Logic & Automation”
+
+Core Concepts
+
+Functions
+
+Parameters
+
+Return values

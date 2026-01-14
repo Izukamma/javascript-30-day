@@ -1,0 +1,30 @@
+🟢 DAY 4 — Conditionals (IF / ELSE) (60 min)
+📘 Title
+
+“Conditionals: Teaching JavaScript Rules”
+
+Core Concepts
+
+5 > 3      // true
+5 < 3      // false
+5 >= 5     // true
+5 === 5    // true (STRICT)
+5 !== 4    // true
+
+true && false   // AND
+true || false   // OR
+!true           // NOT
+
+let age = 20;
+let hasID = true;
+
+age >= 18 && hasID; // true
+
+
+if
+
+else if
+
+else
+
+Decision trees
